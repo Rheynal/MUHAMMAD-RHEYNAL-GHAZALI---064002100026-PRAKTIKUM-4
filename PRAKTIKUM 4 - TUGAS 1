@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Oct 11 13:20:33 2021
+
+@author: mrhey
+
+
+
+"""
+
+print("MUHAMMAD RHEYNAL GHAZALI") 
+
+a = int(input("ketik angka : "))
+
+while a > 0:
+    for i in range(a):
+        print(a , end="")
+    print()
+    a -=1                        
+    
